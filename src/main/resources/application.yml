@@ -1,0 +1,5 @@
+server:
+  port: 9292  # 애플리케이션 포트 설정
+  tomcat:
+    threads:
+      max: 3
